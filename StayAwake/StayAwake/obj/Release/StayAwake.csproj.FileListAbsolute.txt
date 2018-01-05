@@ -11,3 +11,16 @@ D:\Nabeel_Workspace\RnD\StayAwake\StayAwake\obj\Release\StayAwake.application
 D:\Nabeel_Workspace\RnD\StayAwake\StayAwake\obj\Release\StayAwake.exe
 D:\Nabeel_Workspace\RnD\StayAwake\StayAwake\obj\Release\StayAwake.pdb
 D:\Nabeel_Workspace\RnD\StayAwake\StayAwake\obj\Release\StayAwake.MainForm.resources
+D:\Nabeel_Workspace\github\StayAwake\StayAwake\StayAwake\bin\Release\StayAwake.exe.config
+D:\Nabeel_Workspace\github\StayAwake\StayAwake\StayAwake\obj\Release\StayAwake.exe
+D:\Nabeel_Workspace\github\StayAwake\StayAwake\StayAwake\obj\Release\StayAwake.pdb
+D:\Nabeel_Workspace\github\StayAwake\StayAwake\StayAwake\bin\Release\Icons\favicon.ico
+D:\Nabeel_Workspace\github\StayAwake\StayAwake\StayAwake\bin\Release\StayAwake.exe.manifest
+D:\Nabeel_Workspace\github\StayAwake\StayAwake\StayAwake\bin\Release\StayAwake.application
+D:\Nabeel_Workspace\github\StayAwake\StayAwake\StayAwake\bin\Release\StayAwake.exe
+D:\Nabeel_Workspace\github\StayAwake\StayAwake\StayAwake\bin\Release\StayAwake.pdb
+D:\Nabeel_Workspace\github\StayAwake\StayAwake\StayAwake\obj\Release\StayAwake.MainForm.resources
+D:\Nabeel_Workspace\github\StayAwake\StayAwake\StayAwake\obj\Release\StayAwake.Properties.Resources.resources
+D:\Nabeel_Workspace\github\StayAwake\StayAwake\StayAwake\obj\Release\StayAwake.csproj.GenerateResource.Cache
+D:\Nabeel_Workspace\github\StayAwake\StayAwake\StayAwake\obj\Release\StayAwake.exe.manifest
+D:\Nabeel_Workspace\github\StayAwake\StayAwake\StayAwake\obj\Release\StayAwake.application

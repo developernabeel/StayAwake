@@ -16,12 +16,26 @@ namespace StayAwake
 
         private void MainForm_Load(object sender, EventArgs e)
         {
-            SetThreadExecutionState(EXECUTION_STATE.ES_DISPLAY_REQUIRED | EXECUTION_STATE.ES_CONTINUOUS);
+            try
+            {
+                SetThreadExecutionState(EXECUTION_STATE.ES_DISPLAY_REQUIRED | EXECUTION_STATE.ES_SYSTEM_REQUIRED | EXECUTION_STATE.ES_CONTINUOUS);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("An error occured when setting Thread Execution State.\nStack Trace:\n" + ex, "Error during initialization");
+            }
         }
 
         private void MainForm_FormClosing(object sender, FormClosingEventArgs e)
         {
-            SetThreadExecutionState(EXECUTION_STATE.ES_CONTINUOUS);
+            try
+            {
+                SetThreadExecutionState(EXECUTION_STATE.ES_CONTINUOUS);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("An error occured when setting Thread Execution State.\nStack Trace:\n" + ex, "Error when closing application");
+            }
         }
 
         private void MainForm_Resize(object sender, EventArgs e)

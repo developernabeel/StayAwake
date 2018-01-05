@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="StayAwake.exe" size="42496">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="StayAwake.exe" size="43008">
       <assemblyIdentity name="StayAwake" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ar73zJ14U7dy+ltUWqvVOS76ymH8H0hq78GSTep6vBg=</dsig:DigestValue>
+        <dsig:DigestValue>GUbYy8ztQvPgEDgVw0Ewf46faw+8aFI69LtxkrzB38A=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
